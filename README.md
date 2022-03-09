@@ -6,6 +6,10 @@
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
+use of Redux is to UI frameowrk.
+use of Axios is ability to take advantage of JavaScript's async and await for more readable asynchronous code.
+use of Sass is to deliver on-demand computing services through applications over the internet.
+use of react-bootstrap to design many kind of things well in front-end.
 
 ## snapshots
 
