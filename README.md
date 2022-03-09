@@ -6,7 +6,6 @@
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 
-back-end: Node.js, Express, Restful API, paypal-sdk, mongodb, mongoose, jwt(jsonwebtoken), heroku, firebase, swaggerHub
 
 ## snapshots
 
